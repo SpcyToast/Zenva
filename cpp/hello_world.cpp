@@ -6,5 +6,5 @@ int main() {
     std::cout << "Hello World!\n";
 }
 
-// g++ -o [Filename] hello_world.cpp to complile
+// g++ -o [Filename] hello_world.cpp to compile, variations to this exist... will learn more soon
 // ./[Filename] to run
